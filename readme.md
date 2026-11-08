@@ -4,12 +4,12 @@ Everything about me and my projects is on my website: **[superstas0.fun](https:/
 
 ## Copyright and licenses
 
-If I broke a license or copyright, please contact me (details are on my website) and I'll be happy to remove it as soon as possible.
+If I broke a license or copyright, please contact me (details are on my website) and I'll be happy to fix it as soon as possible.
 
 ## Code
 
-All my projects live on my self-hosted Forgejo, because GitHub sucks. My code is not here.
+I maintain my projects on my self-hosted Forgejo because GitHub sucks. Some of them are mirrored here as read-only copies, so commits and pull requests made here won't be used.
 
 ## About
 
-I am a solo developer making userscripts and small tool patches. Nothing is monetized.
+I am a solo developer making userscripts and tool patches, coding both myself and with the help of ai. Nothing is monetized.

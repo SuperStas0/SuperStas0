@@ -8,7 +8,7 @@ If I broke a license or copyright, please contact me (details are on my website)
 
 ## Code
 
-I maintain my projects on my self-hosted Forgejo because GitHub sucks. Some of them are mirrored here as read-only copies, so commits and pull requests made here won't be used.
+I maintain my projects on my self-hosted Forgejo. Some of them are mirrored here.
 
 ## About
 
